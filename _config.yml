@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shreyas Kulkarni / Profile"
+title                    : "Shreyas Kulkarni Profile"
 title_separator          : "-"
 name                     : &name "Shreyas Sunil Kulkarni"
 description              : &description "Hello, World!"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shreyas Sunil Kulkarni"
   avatar           : "https://github.com/kuyas.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Undergraduate Student"
   location         : "Bangalore, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
