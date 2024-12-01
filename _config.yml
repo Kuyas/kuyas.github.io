@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Shreyas Sunil Kulkarni"
   avatar           : "https://github.com/kuyas.png"
-  bio              : "Undergraduate Student"
+  bio              : "Applied Scientist II, Amazon"
   location         : "Bangalore, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -184,7 +184,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
