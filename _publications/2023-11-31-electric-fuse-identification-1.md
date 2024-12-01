@@ -1,8 +1,8 @@
 ---
 title: "Electric Power Fuse Identification With Deep Learning"
 collection: publications
-permalink: /publication/2023-11-31-electric-fuse-identification-1
-excerpt: 'This paper Electrical Fuse Detection..'
+permalink: /publications/2023-11-31-electric-fuse-identification-1
+excerpt: 'This paper studies object detection algorithmns on Electrical Fuse Detection.'
 date: 2023-11-31
 venue: 'IEEE Transactions on Industrial Informatics, 19(11), 11310-11321.'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10045819'
