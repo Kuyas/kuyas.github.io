@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Computer Science, BITS Pilani, Hyderabad, 2021
+* MSc. in Mathematics, BITS Pilani, Hyderabad 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021–Present: Applied Scientist II
+  * Amazon, International Machine Learning Team
+  * Led the development of multilingual multimodal models and visual product recommendation systems, driving over $100M in sales and reducing onboarding time from 48 hours to 4 hours.
+  * Developed Image based models for visually similar clothing recommendations, contributing to a $10M revenue increase.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019: Research Intern
+  * International Institute of Information Technology, Bangalore
+  * Developed a mesh simplification algorithm for efficient 3D rendering and manipulation, preserving structural integrity.
+
+* 2018: AI Engineer
+  * Pixxel
+  * Built predictive models for crop yield estimation using satellite imagery, leveraging Landsat-7 and MODIS data for key crops like rice and wheat.
 
 Publications
 ======
